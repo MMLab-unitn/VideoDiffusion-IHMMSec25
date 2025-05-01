@@ -39,7 +39,7 @@ class Video_dataset(Dataset):
             self.num_batches = opt.num_batches
 
             if opt.split is not None:
-                with open(f'media/{opt.split}.txt') as f:
+                with open(f'split/{opt.split}.txt') as f:
                     videos = [line.replace('\n', '') for line in f.readlines()]
             else:
                 videos = []

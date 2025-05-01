@@ -5,7 +5,7 @@ def get_parser():
     parser.add_argument("--name", type=str, default="test", help="run name")
 
     parser.add_argument("--device", type=str, default="cuda:0", help="cuda device to use")
-    parser.add_argument("--model", type=str, default="vit_head", help="architecture name")
+    parser.add_argument("--model", type=str, default="slow_3d", help="architecture name")
     parser.add_argument("--freeze", action='store_true', help="Freeze all layers except the last one")
     parser.add_argument("--prototype", action='store_true', help="Use prototype layer")
     parser.add_argument("--invert_labels", action='store_true', help="Inverted labels for prototype")
@@ -17,8 +17,8 @@ def get_parser():
     parser.add_argument("--lr_min",type=float, default=1e-7, help="minimum learning rate")
 
     parser.add_argument("--split_path", type=str, help="Path to split files")
-    parser.add_argument("--data_root", type=str, default="/media/NAS/videodiffusion", help="Path to dataset")
-    parser.add_argument("--data_root_commercial", type=str, default="/media/NAS/videodiffusion_extra", help="Path to dataset for commercial tools")
+    parser.add_argument("--data_root", type=str, help="Path to dataset")
+    parser.add_argument("--data_root_commercial", type=str, help="Path to dataset for commercial tools")
 
     parser.add_argument("--batch_size", type=int, default=32, help='Dataloader batch size')
     parser.add_argument("--num_threads", type=int, default=24, help='# threads for loading data')
