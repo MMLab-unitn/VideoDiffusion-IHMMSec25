@@ -1,4 +1,4 @@
-# TrueFake: A Real World Case Dataset of Last Generation Fake Images also Shared on Social Networks
+# Advance Fake Video Detection via Vision Transformers
 
 This is the official code implementation of the "IH&MMSec 2025" paper ["Advance Fake Video Detection via Vision Transformers"](https://arxiv.org/abs/2504.20669)\
 Authors: Joy Battocchio, Stefano Dell'Anna, Andrea Montibeller, Giulia Boato
