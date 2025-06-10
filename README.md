@@ -15,7 +15,7 @@ Authors: Joy Battocchio, Stefano Dell'Anna, Andrea Montibeller, Giulia Boato
 </table>
 
 # Dataset
-The dataset will be made available soon.
+The dataset is available [here](https://drive.usercontent.google.com/download?id=1jKM_Wq0dP7wQvawa4taB1hWl6LiXkWc2).
 
 # Detectors
 In this repository we provide the code for the two detectors proposed in the paper: 
