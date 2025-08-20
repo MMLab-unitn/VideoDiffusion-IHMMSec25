@@ -25,7 +25,7 @@ The different subsets are available here:
 | SEINE           | [Download](https://drive.usercontent.google.com/download?id=1-1_7197MuOQ0W6g5_l2vd5iyHm5aWeb_)     |
 | RAVE            | [Download](https://drive.usercontent.google.com/download?id=1ZATRYcdU7EC-HfsmawEr4NKRZ6TK-uy2)     |
 | TokenFlow       | [Download](https://drive.usercontent.google.com/download?id=1NiHpfyr7iNIkTGYBB5AQH3-1qmXqkRv2)     |
-| Text2Video-Zero | Link available soon                                                                                |
+| Text2Video-Zero | [Download](https://drive.usercontent.google.com/download?id=19gYCcMM2dn4qqmMD4XbvOExmd6c95wid)     |
 
 # Detectors
 In this repository we provide the code for the two detectors proposed in the paper: 
