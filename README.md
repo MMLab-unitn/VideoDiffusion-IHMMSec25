@@ -15,7 +15,17 @@ Authors: Joy Battocchio, Stefano Dell'Anna, Andrea Montibeller, Giulia Boato
 </table>
 
 # Dataset
-The dataset is available [here](https://drive.usercontent.google.com/download?id=1jKM_Wq0dP7wQvawa4taB1hWl6LiXkWc2).
+The entire dataset can be downloaded [here](https://drive.usercontent.google.com/download?id=1jKM_Wq0dP7wQvawa4taB1hWl6LiXkWc2).
+
+The different subsets are available here:
+| Subset          | Link                                                                                               |
+|-----------------|----------------------------------------------------------------------------------------------------|
+| Real videos     | [Download](https://drive.usercontent.google.com/download?id=1Ticxr0-AsQwl6YL2pBB6dylXGVLBnBjJ)     |
+| DynamiCrafter   | [Download](https://drive.usercontent.google.com/download?id=1PsskgOl6UjiX5Ovtbzhy0IdVVjjYLWn1)     |
+| SEINE           | [Download](https://drive.usercontent.google.com/download?id=1-1_7197MuOQ0W6g5_l2vd5iyHm5aWeb_)     |
+| RAVE            | [Download](https://drive.usercontent.google.com/download?id=1ZATRYcdU7EC-HfsmawEr4NKRZ6TK-uy2)     |
+| TokenFlow       | [Download](https://drive.usercontent.google.com/download?id=1NiHpfyr7iNIkTGYBB5AQH3-1qmXqkRv2)     |
+| Text2Video-Zero | Link available soon                                                                                |
 
 # Detectors
 In this repository we provide the code for the two detectors proposed in the paper: 
