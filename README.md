@@ -17,6 +17,8 @@ Authors: Joy Battocchio, Stefano Dell'Anna, Andrea Montibeller, Giulia Boato
 # Dataset
 The entire dataset can be downloaded [here](https://drive.usercontent.google.com/download?id=1jKM_Wq0dP7wQvawa4taB1hWl6LiXkWc2).
 
+The disjoint dataset can be downloaded [here](https://drive.google.com/file/d/16Cm5wr6nBiJdQvL7q7BqOwdLBcEg8_qk/view?usp=sharing)
+
 The different subsets are available here:
 | Subset          | Link                                                                                               |
 |-----------------|----------------------------------------------------------------------------------------------------|
